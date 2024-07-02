@@ -2,6 +2,8 @@
 
 LangExchangeTracker is a simple web application that helps users track their language exchange partners and log their conversation sessions. The app is built with HTML, CSS, and JavaScript, and it works entirely on the client-side using local storage.
 
+[DEMO](https://jadehamel.fr/LangExchangeTracker)
+
 ## Features
 
 - Add language exchange partners.
